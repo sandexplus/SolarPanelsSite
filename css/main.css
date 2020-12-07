@@ -14,7 +14,6 @@ body{
 }
 
 header{
-  height: 200px;
   padding-bottom: 50px;
   width: 100%;
 }
@@ -45,6 +44,10 @@ header{
 .logo-img{
   width: 100px;
   color: white;
+}
+
+.logo-img-bot{
+  padding-bottom: 50px;
 }
 
 h1{
