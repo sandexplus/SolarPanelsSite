@@ -7,6 +7,9 @@
   overflow-x: hidden;
 }
 
+head {
+    display: none;
+}
 
 body{
   width: 60%;
@@ -22,11 +25,11 @@ body{
 
 header{
   padding-bottom: 50px;
-  width: 60%;
+
 }
 
 body>content{
-  width: 60%;
+  padding: 0 10px 0 10px;
 }
 
 .header-link{
