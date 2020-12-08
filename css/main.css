@@ -6,8 +6,9 @@
   display: block;
   overflow-x: hidden;
 }
-
-
+head {
+    display: none;
+}
 body{
   width: 60%;
   max-width: 100vw;
